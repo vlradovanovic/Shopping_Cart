@@ -1,5 +1,5 @@
 # Shopping_Cart
-Basic Shopping cart
+Basic JavaScript Shopping Cart 
 
 It's a simple simulation of shopping cart which aims to demonstrate my modest engagement. 
 Application uses Northwind DB & Web service witch data converts in JSON format and publishing on the page. 
